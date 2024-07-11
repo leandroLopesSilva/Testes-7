@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lslopes\\Desktop\\Teste 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\lslopes\\desktop\\teste 7\\questao5\\application\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\lslopes\\desktop\\teste 7\\questao5\\application\\handlers\\getaccountbalancequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\getaccountbalancequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\lslopes\\desktop\\teste 7\\questao5\\application\\handlers\\createmovementcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\application\\handlers\\createmovementcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\lslopes\\desktop\\teste 7\\questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\lslopes\\desktop\\teste 7\\questao5\\infrastructure\\database\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\lslopes\\desktop\\teste 7\\questao5\\infrastructure\\services\\controllers\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\services\\controllers\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|c:\\users\\lslopes\\desktop\\teste 7\\questao5\\infrastructure\\database\\idappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Questao5\\Questao5.csproj|solutionrelative:questao5\\infrastructure\\database\\idappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Application\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Application\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Questao5\\Application\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:30:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Program.cs",
+              "RelativeDocumentMoniker": "Questao5\\Program.cs",
+              "ToolTip": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Program.cs",
+              "RelativeToolTip": "Questao5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:38:05.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovementController.cs",
+              "DocumentMoniker": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Infrastructure\\Services\\Controllers\\MovementController.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Services\\Controllers\\MovementController.cs",
+              "ToolTip": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Infrastructure\\Services\\Controllers\\MovementController.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Services\\Controllers\\MovementController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAewBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:30:30.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Infrastructure\\Database\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Infrastructure\\Database\\DapperContext.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\DapperContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAnwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:28:46.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Infrastructure\\Database\\IDapperContext.cs",
+              "RelativeDocumentMoniker": "Questao5\\Infrastructure\\Database\\IDapperContext.cs",
+              "ToolTip": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Infrastructure\\Database\\IDapperContext.cs",
+              "RelativeToolTip": "Questao5\\Infrastructure\\Database\\IDapperContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:28:34.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateMovementCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Application\\Handlers\\CreateMovementCommandHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\CreateMovementCommandHandler.cs",
+              "ToolTip": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Application\\Handlers\\CreateMovementCommandHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\CreateMovementCommandHandler.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAnwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:26:52.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAccountBalanceQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Application\\Handlers\\GetAccountBalanceQueryHandler.cs",
+              "RelativeDocumentMoniker": "Questao5\\Application\\Handlers\\GetAccountBalanceQueryHandler.cs",
+              "ToolTip": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Application\\Handlers\\GetAccountBalanceQueryHandler.cs",
+              "RelativeToolTip": "Questao5\\Application\\Handlers\\GetAccountBalanceQueryHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAvwCcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:47:44.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
