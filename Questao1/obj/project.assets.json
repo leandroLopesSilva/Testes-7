@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao1\\Questao1.csproj",
+      "projectUniqueName": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao1\\Questao1.csproj",
       "projectName": "Questao1",
-      "projectPath": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao1\\Questao1.csproj",
+      "projectPath": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao1\\Questao1.csproj",
       "packagesPath": "C:\\Users\\lslopes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao1\\obj\\",
+      "outputPath": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lslopes\\AppData\\Roaming\\NuGet\\NuGet.Config",

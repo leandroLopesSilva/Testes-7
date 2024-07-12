@@ -32,7 +32,7 @@ public class DapperContext : IDapperContext
     {
         using (var connection = CreateConnection())
         {
-            string sql = "SELECT * FROM contacorrente WHERE numero = @AccountId";
+            string sql = "SELECT * FROM contacorrente WHERE idcontacorrente = @AccountId";
             return await connection.QueryFirstOrDefaultAsync<ContaCorrente>(sql, new { AccountId = accountId });
         }
     }

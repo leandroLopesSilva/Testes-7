@@ -6919,11 +6919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Questao5.csproj",
+      "projectUniqueName": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao5\\Questao5.csproj",
       "projectName": "Questao5",
-      "projectPath": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Questao5.csproj",
+      "projectPath": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao5\\Questao5.csproj",
       "packagesPath": "C:\\Users\\lslopes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\obj\\",
+      "outputPath": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lslopes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7050,5 +7050,25 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/SefazFeed/nuget/v3/index.json."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://ads.intra.fazenda.sp.gov.br/tfs/ADMIN/_packaging/SefazFeed/nuget/v3/index.json."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://ads.intra.fazenda.sp.gov.br/tfs/TPC-2016/_packaging/sefazFeed/nuget/v3/index.json."
+    }
+  ]
 }

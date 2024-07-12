@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Questao5.csproj": {}
+    "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao5\\Questao5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Questao5.csproj": {
+    "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao5\\Questao5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Questao5.csproj",
+        "projectUniqueName": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao5\\Questao5.csproj",
         "projectName": "Questao5",
-        "projectPath": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\Questao5.csproj",
+        "projectPath": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao5\\Questao5.csproj",
         "packagesPath": "C:\\Users\\lslopes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao5\\obj\\",
+        "outputPath": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lslopes\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -39,8 +39,9 @@ namespace Questao5.Infrastructure.Sqlite
                 "datamovimento TEXT(25) NOT NULL," +
                 "tipomovimento TEXT(1) NOT NULL," +
                 "valor REAL NOT NULL," +
-                "CHECK(tipomovimento in ('C', 'D'))); ") ;
-
+                "CHECK(tipomovimento in ('C', 'D'))) " +
+                "FOREIGN KEY(idcontacorrente) REFERENCES contacorrente(idcontacorrente) " +
+                ");");
             connection.Execute("CREATE TABLE idempotencia (" +
                                "chave_idempotencia TEXT(37) PRIMARY KEY," +
                                "requisicao TEXT(1000)," +

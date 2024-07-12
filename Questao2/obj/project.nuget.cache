@@ -1,10 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "RYnkTV3r95c=",
+  "dgSpecHash": "2wW/+1m2Y6Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lslopes\\Desktop\\Teste 7\\Questao2\\Questao2.csproj",
+  "projectFilePath": "C:\\Users\\lslopes\\Desktop\\Teste 7 - Implementacao\\Questao2\\Questao2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lslopes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://ads.intra.fazenda.sp.gov.br/tfs/PRODUTOS/_packaging/SefazFeed/nuget/v3/index.json."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://ads.intra.fazenda.sp.gov.br/tfs/ADMIN/_packaging/SefazFeed/nuget/v3/index.json."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ocorreu um erro ao obter os dados de vulnerabilidade do pacote: Não é possível carregar o índice de serviço para a origem https://ads.intra.fazenda.sp.gov.br/tfs/TPC-2016/_packaging/sefazFeed/nuget/v3/index.json."
+    }
+  ]
 }
