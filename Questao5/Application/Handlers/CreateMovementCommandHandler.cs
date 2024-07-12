@@ -3,7 +3,6 @@ using Questao5.Application.Commands;
 using Questao5.Application.Exceptions;
 using Questao5.Domain.Entities;
 using Questao5.Infrastructure.Database;
-using System.ComponentModel.DataAnnotations;
 
 namespace Questao5.Application.Handlers;
 
@@ -20,14 +19,8 @@ public class CreateMovementCommandHandler : IRequestHandler<CreateMovementComman
 
     public async Task<string> Handle(CreateMovementCommand request, CancellationToken cancellationToken)
     {
-        // Check idempotency
-        var existingResult = await _idempotencyRepository.GetResultAsync(request.RequestId);
-        if (existingResult != null)
-        {
-            return existingResult;
-        }
 
-        // Validate account
+        // Validar account
         var account = await _context.GetAccountByIdAsync(request.AccountId);
         if (account == null)
         {
@@ -38,19 +31,26 @@ public class CreateMovementCommandHandler : IRequestHandler<CreateMovementComman
             throw new InactiveAccountException();
         }
 
-        // Validate amount
+        // Validar amount
         if (request.Amount <= 0)
         {
             throw new InvalidValueException();
         }
 
-        // Validate movement type
+        // Validar movement type
         if (request.MovementType != "C" && request.MovementType != "D")
         {
             throw new InvalidTypeException();
         }
 
-        // Create movement
+        // Checar idempotency
+        var existingResult = await _idempotencyRepository.GetResultAsync(request.RequestId);
+        if (existingResult != null)
+        {
+            return existingResult;
+        }
+
+        // Criar movimento
         var movement = new Movimento
         {
             IdMovimento = Guid.NewGuid().ToString(),

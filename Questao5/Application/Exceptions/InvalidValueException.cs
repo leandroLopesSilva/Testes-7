@@ -2,5 +2,5 @@
 
 public class InvalidValueException : BadRequestException
 {
-    public InvalidValueException() : base("Invalid value.") { }
+    public InvalidValueException() : base("INVALID_VALUE") { }
 }

@@ -437,8 +437,8 @@ C:\Users\lslopes\Desktop\Teste 7\Questao5\obj\Debug\net6.0\refint\Questao5.dll
 C:\Users\lslopes\Desktop\Teste 7\Questao5\obj\Debug\net6.0\Questao5.pdb
 C:\Users\lslopes\Desktop\Teste 7\Questao5\obj\Debug\net6.0\Questao5.genruntimeconfig.cache
 C:\Users\lslopes\Desktop\Teste 7\Questao5\obj\Debug\net6.0\ref\Questao5.dll
-C:\Users\lslopes\Desktop\Teste 7 - Implementacao\Questao5\bin\Debug\net6.0\testhost.exe
 C:\Users\lslopes\Desktop\Teste 7 - Implementacao\Questao5\bin\Debug\net6.0\testhost.dll
+C:\Users\lslopes\Desktop\Teste 7 - Implementacao\Questao5\bin\Debug\net6.0\testhost.exe
 C:\Users\lslopes\Desktop\Teste 7 - Implementacao\Questao5\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\lslopes\Desktop\Teste 7 - Implementacao\Questao5\bin\Debug\net6.0\appsettings.json
 C:\Users\lslopes\Desktop\Teste 7 - Implementacao\Questao5\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll

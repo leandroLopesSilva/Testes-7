@@ -3,7 +3,6 @@ using Questao5.Application.DTOs;
 using Questao5.Application.Exceptions;
 using Questao5.Application.Queries;
 using Questao5.Infrastructure.Database;
-using System.ComponentModel.DataAnnotations;
 
 namespace Questao5.Application.Handlers;
 

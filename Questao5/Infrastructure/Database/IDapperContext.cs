@@ -1,6 +1,5 @@
 ﻿using Questao5.Domain.Entities;
 using System.Data;
-using System.Security.Principal;
 
 namespace Questao5.Infrastructure.Database;
 

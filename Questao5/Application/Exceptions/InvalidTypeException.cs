@@ -2,5 +2,5 @@
 
 public class InvalidTypeException : BadRequestException
 {
-    public InvalidTypeException() : base("Invalid type.") { }
+    public InvalidTypeException() : base("INVALID_TYPE") { }
 }

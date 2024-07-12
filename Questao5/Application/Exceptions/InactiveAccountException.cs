@@ -2,5 +2,5 @@
 
 public class InactiveAccountException : BadRequestException
 {
-    public InactiveAccountException() : base("Inactive account.") { }
+    public InactiveAccountException() : base("INACTIVE_ACCOUNT") { }
 }

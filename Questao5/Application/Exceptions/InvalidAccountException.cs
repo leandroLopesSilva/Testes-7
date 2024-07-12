@@ -2,5 +2,5 @@
 
 public class InvalidAccountException : BadRequestException
 {
-    public InvalidAccountException() : base("Invalid account.") { }
+    public InvalidAccountException() : base("INVALID_ACCOUNT") { }
 }

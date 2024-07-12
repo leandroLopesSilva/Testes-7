@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Castle.Core/5.1.0": {
+      "Castle.Core/5.1.1": {
         "type": "package",
         "dependencies": {
           "System.Diagnostics.EventLog": "6.0.0"
@@ -616,10 +616,10 @@
           }
         }
       },
-      "NSubstitute/4.4.0": {
+      "NSubstitute/5.1.0": {
         "type": "package",
         "dependencies": {
-          "Castle.Core": "5.0.0"
+          "Castle.Core": "5.1.1"
         },
         "compile": {
           "lib/net6.0/NSubstitute.dll": {
@@ -2184,10 +2184,10 @@
     }
   },
   "libraries": {
-    "Castle.Core/5.1.0": {
-      "sha512": "31UJpTHOiWq95CDOHazE3Ub/hE/PydNWsJMwnEVTqFFP4WhAugwpaVGxzOxKgNeSUUeqS2W6lxV+q7u1pAOfXg==",
+    "Castle.Core/5.1.1": {
+      "sha512": "rpYtIczkzGpf+EkZgDr9CClTdemhsrwA/W5hMoPjLkRFnXzH44zDLoovXeKtmxb1ykXK9aJVODSpiJml8CTw2g==",
       "type": "package",
-      "path": "castle.core/5.1.0",
+      "path": "castle.core/5.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2195,7 +2195,7 @@
         "CHANGELOG.md",
         "LICENSE",
         "castle-logo.png",
-        "castle.core.5.1.0.nupkg.sha512",
+        "castle.core.5.1.1.nupkg.sha512",
         "castle.core.nuspec",
         "lib/net462/Castle.Core.dll",
         "lib/net462/Castle.Core.xml",
@@ -3217,27 +3217,21 @@
         "packageIcon.png"
       ]
     },
-    "NSubstitute/4.4.0": {
-      "sha512": "aArWp0M9n/3IZHCNSb3QIHy0tkPLSft8l3KFeUa54GbznKiv0FE687TBfPhZbXf0/zGtc4EsHLEUqEEf0Bf4HQ==",
+    "NSubstitute/5.1.0": {
+      "sha512": "ZCqOP3Kpp2ea7QcLyjMU4wzE+0wmrMN35PQMsdPOHYc2IrvjmusG9hICOiqiOTPKN0gJon6wyCn6ZuGHdNs9hQ==",
       "type": "package",
-      "path": "nsubstitute/4.4.0",
+      "path": "nsubstitute/5.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "icon.png",
-        "lib/net45/NSubstitute.dll",
-        "lib/net45/NSubstitute.xml",
-        "lib/net46/NSubstitute.dll",
-        "lib/net46/NSubstitute.xml",
-        "lib/net5.0/NSubstitute.dll",
-        "lib/net5.0/NSubstitute.xml",
+        "lib/net462/NSubstitute.dll",
+        "lib/net462/NSubstitute.xml",
         "lib/net6.0/NSubstitute.dll",
         "lib/net6.0/NSubstitute.xml",
-        "lib/netstandard1.3/NSubstitute.dll",
-        "lib/netstandard1.3/NSubstitute.xml",
         "lib/netstandard2.0/NSubstitute.dll",
         "lib/netstandard2.0/NSubstitute.xml",
-        "nsubstitute.4.4.0.nupkg.sha512",
+        "nsubstitute.5.1.0.nupkg.sha512",
         "nsubstitute.nuspec"
       ]
     },
@@ -6905,7 +6899,7 @@
       "Microsoft.Data.Sqlite >= 3.1.6",
       "Microsoft.NET.Test.Sdk >= 17.4.0-preview-20220726-02",
       "Moq >= 4.18.2",
-      "NSubstitute >= 4.4.0",
+      "NSubstitute >= 5.1.0",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "coverlet.collector >= 3.1.2",
       "coverlet.msbuild >= 3.1.2",
@@ -6999,7 +6993,7 @@
           },
           "NSubstitute": {
             "target": "Package",
-            "version": "[4.4.0, )"
+            "version": "[5.1.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

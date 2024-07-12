@@ -21,10 +21,6 @@ namespace Questao5.Infrastructure.Sqlite
             if (!string.IsNullOrEmpty(tableName) && (tableName == "contacorrente" || tableName == "movimento" || tableName == "idempotencia"))
                 return;
 
-            //connection.Execute("DROP TABLE movimento");
-            //connection.Execute("DROP TABLE idempotencia");
-            //connection.Execute("DROP TABLE contacorrente");
-
             connection.Execute("CREATE TABLE contacorrente ( " +
                                "idcontacorrente TEXT(37) PRIMARY KEY," +
                                "numero INTEGER(10) NOT NULL UNIQUE," +
